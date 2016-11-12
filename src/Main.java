@@ -1,3 +1,5 @@
+import java.util.Queue;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -10,5 +12,6 @@ public class Main {
         int d=stringBuilder.length();
         String s=stringBuilder.delete(d-2,d).toString();
         System.out.println("hshsh");
+        Queue queue;
     }
 }
