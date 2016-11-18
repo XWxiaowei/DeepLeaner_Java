@@ -37,7 +37,8 @@ public class SelectSort {
      *  第n趟比较至多只交换一次，永远拿n-1位的数据和中间某一项数据（本趟
      *  比较里面最小的数据）进行交换，。如果本趟比较时候第n-1位（本趟比较的第一位）
      *  数据已经是最小，那就无需要交换。
-     *
+     *  直接选择排序算法效率很高，它只需要一个附加的程序单元用于进行数据交换
+     *  ,其空间效率为O(1)
      * @param data
      */
     public static void selectSortStrength(DataWrap []data){
