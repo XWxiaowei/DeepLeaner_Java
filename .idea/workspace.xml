@@ -2,140 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c174447-0710-4b3a-81db-dbbbd1376201" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Sort/BinaryInsertSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Sort/InsertSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Sort/MergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Sort/shellSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeeCode/刷题" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/java反射知识" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/lesson1/Bean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/lesson1/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/lesson1/ComplexBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/lesson1/ObjectPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/lesson1/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/lesson1/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflecton/lesson1/模拟spring实现简单的对象池" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Algorithm/Sort/BubbleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Algorithm/Sort/DataWrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Algorithm/Sort/HeapSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Algorithm/Sort/QuickSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Algorithm/Sort/SelectSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Collection/SortedSetTest$compar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Collection/SortedSetTest$human.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Collection/SortedSetTest$student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Collection/SortedSetTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson1/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson1/TestColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson1/TestColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/AbstractColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/AbstractColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/AbstractColor$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/AbstractColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/EnumTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/Info.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/MyColors$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/MyColors$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/MyColors$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/MyColors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Enum/lesson2/colors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/DynamicArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/MyArr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/MyComparable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/MyComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/NumberPair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/SuperGnerttype$Base.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/SuperGnerttype$Child.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/GeneralType/SuperGnerttype.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/Adapter/Adaptee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/Adapter/AdapterOfClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/Adapter/AdapterOfObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/Adapter/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/Adapter/ConcreTarget.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/Adapter/Target.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/IUserBO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/IUserBiz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/IUserInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/SRP_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/UserBO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/UserInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/father.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/gz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/son.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/lesson1/单一职责原则" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/PatternDesign/设计模式" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/TextThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/Thread1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/Thread2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/Thread2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/Thread2$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/Thread2$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/Thread2$Inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/Thread2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Synchorizned/Lesson1/TxtThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/GetNameThreadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/MyThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/MynewThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/SleepInterrupt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/TestThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadAliveDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadDaemon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadDemo_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadInteraptDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadJoin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadTet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/ThreadYield.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson1/yieldClassThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson2/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson2/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson2/DeadLockDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson3/Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson3/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson3/Produces.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson3/ThreadCommunication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson4/StaticThreadTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson4/StaticThreadTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson5/TestThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson5/ThreadLife.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/ThreadDemo/TestThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/ThreadDemo/ThreadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/ArrayBinTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/HuffmanTree$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/HuffmanTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/SortedBinTree$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/SortedBinTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/ThreeLinkBinTree$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/ThreeLinkBinTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/TreeChild$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/TreeChild$SonNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/TreeChild.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/TwoLinkBinTree$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/TwoLinkBinTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Tree/二叉树的遍历" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/DuLinkList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/DuLinkList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/LinkList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/LinkList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/LinkQuene$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/LinkQuene.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/LinkStack$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/LinkStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/LoopQuene.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/SequenceList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/SequenceQuene.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/myOwnCollection/LinearList/SequenceStack.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Algorithm/Sort/LinkList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Algorithm/Sort/LinkListSort.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LeeCode/RepeatedSubstringPattern/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/Builder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/Client.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/ConcreteBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/Director.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/HomeProductFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/ProductFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/Productor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/demo/RobotProductFayctory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/Client.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/ExportDBoperate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/ExportFileApi.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/ExportOperate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/ExportTextFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/ExportTextOperate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/ExportToDb.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Sort/LinkListSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/剑指offer试题" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection/LinkedHashMapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection/关于集合框架源码探讨的文摘" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeeCode/RepeatedSubstringPattern/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeeCode/findTheKnThNode/findKnthNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/ReverseNodeLinst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/检测链表是否回路" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/Component.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/ConcreteComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/ConcreteDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/Decorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/Component.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/ConcreteComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/Decorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/GroupPrizeDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/MonthPrizeDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/SumPrizeDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/TemDB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/关于装饰器模式适配器模式代理模式区别" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/分析" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/Decorator/装饰品模式和io流" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/Builder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/ConcreteBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/Director.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/HomeProductFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/ProductFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/Productor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/demo/RobotProductFayctory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/builder/建造者模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/SimpleFactory/简单工厂模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/Spring容器里面的设计 模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/ExportDBoperate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/ExportFileApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/ExportOperate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/ExportTextFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/ExportTextOperate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/ExportToDb.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/methodFactory/工厂方法模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PatternDesign/factory/工厂模式的比较" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SwordOffer/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SwordOffer/Solution1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SwordOffer/剑指offer系列文章分析思路" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/Interrupt/SleepUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/Interrupt/demo1/ShutDown.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/Interrupt/demo1/说明" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/Interrupt/对线程进行中断" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/java多线程核心技术梳理(附源码)" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo1/DecreaseThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo1/IncreaseThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo1/NumberHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo1/NumberTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo2/ConectionPoolTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/demo2/等待超时模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson3/通知等待的经典范式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson6/Clinent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson6/生产者消费者之线程间通信" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson7/MyThread1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson7/MyThread2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson7/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson8/NotifyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson8/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson8/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson8/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson8/synNotifyMethodThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/停止等待机制" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ssm/框架学习好内容" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/负载均衡/一致性哈希算法" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/负载均衡/负载均衡" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Algorithm/剑指offer试题" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/builder/建造者模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/SimpleFactory/简单工厂模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/Spring容器里面的设计 模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/methodFactory/工厂方法模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/PatternDesign/factory/工厂模式的比较" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Thread/java多线程核心技术梳理(附源码)" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/ssm/框架学习好内容" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/负载均衡/一致性哈希算法" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/负载均衡/负载均衡" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Algorithm/常用算法剖析学习" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DeepLeaner_Java/Thread/lesson3/线程间通信" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Algorithm/Sort/MergeSort.class" afterPath="$PROJECT_DIR$/target/classes/Algorithm/Sort/MergeSort.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLeaner_Java.iml" afterPath="$PROJECT_DIR$/DeepLeaner_Java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithm/常用算法剖析学习" afterPath="$PROJECT_DIR$/src/Algorithm/常用算法剖析学习" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tree/TreeChild.java" afterPath="$PROJECT_DIR$/src/Tree/TreeChild.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tree/二叉树的遍历" afterPath="$PROJECT_DIR$/src/Tree/二叉树的遍历" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Reflecton/java反射知识" afterPath="$PROJECT_DIR$/src/Reflecton/java反射知识" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/lesson3/线程间通信" afterPath="$PROJECT_DIR$/src/Thread/lesson3/线程间通信" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Algorithm/常用算法剖析学习" afterPath="$PROJECT_DIR$/target/classes/Algorithm/常用算法剖析学习" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Reflecton/java反射知识" afterPath="$PROJECT_DIR$/target/classes/Reflecton/java反射知识" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Thread/lesson3/线程间通信" afterPath="$PROJECT_DIR$/target/classes/Thread/lesson3/线程间通信" />
     </list>
     <ignored path="DeepLeaner_Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -166,104 +145,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/Client.java">
+      <file leaf-file-name="java多线程核心技术梳理(附源码)" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/java多线程核心技术梳理(附源码)">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/BubbleSort.java">
+      <file leaf-file-name="停止等待机制" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/停止等待机制">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="57">
+              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryInsertSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/BinaryInsertSort.java">
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="28" column="13" selection-start-line="20" selection-start-column="29" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="197">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shellSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/shellSort.java">
+      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/ThreadA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="247">
+              <caret line="14" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
               <folding>
-                <element signature="e#2058#2059#0" expanded="true" />
-                <element signature="e#2100#2101#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="常用算法剖析学习" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/常用算法剖析学习">
+      <file leaf-file-name="NotifyThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/NotifyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="synNotifyMethodThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/synNotifyMethodThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/SelectSort.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+            <state relative-caret-position="216">
+              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/HeapSort.java">
+      <file leaf-file-name="MyThread1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson7/MyThread1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="361">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="32" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/QuickSort.java">
+      <file leaf-file-name="MyThread2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson7/MyThread2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="216">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/InsertSort.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson7/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="50" column="56" selection-start-line="36" selection-start-column="8" selection-end-line="50" selection-end-column="56" />
+            <state relative-caret-position="273">
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -291,57 +279,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Thread/lesson2/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/ThreadDemo/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/ThreadDemo/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/Thread/多线程" />
-        <option value="$PROJECT_DIR$/src/Thread/lesson2/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/SwordOffer/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/ssm/框架学习好内容" />
+        <option value="$PROJECT_DIR$/src/Collection/关于集合框架源码探讨的文摘" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/Component.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/ConcreteComponent.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/ConcreteDecorator.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/Component.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/ConcreteComponent.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/MonthPrizeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/GroupPrizeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/TemDB.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/SumPrizeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/Client.java" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/分析" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/关于装饰器模式适配器模式代理模式区别" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson6/生产者消费者之线程间通信" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson6/Clinent.java" />
+        <option value="$PROJECT_DIR$/src/SwordOffer/Solution.java" />
+        <option value="$PROJECT_DIR$/src/SwordOffer/剑指offer系列文章分析思路" />
+        <option value="$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/ReverseNodeLinst.java" />
+        <option value="$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/检测链表是否回路" />
+        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/装饰品模式和io流" />
+        <option value="$PROJECT_DIR$/src/Collection/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/Collection/LinkedHashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Interrupt/对线程进行中断" />
+        <option value="$PROJECT_DIR$/src/Thread/Interrupt/demo1/说明" />
+        <option value="$PROJECT_DIR$/src/Thread/Interrupt/SleepUtils.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Interrupt/demo1/ShutDown.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo1/IncreaseThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo1/DecreaseThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo1/NumberTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo1/NumberHolder.java" />
         <option value="$PROJECT_DIR$/src/Thread/lesson3/线程间通信" />
-        <option value="$PROJECT_DIR$/src/Thread/lesson3/ThreadCommunication.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/HeapSort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/Thread/lesson4/StaticThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/Thread/lesson5/ThreadLife.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/IUserBO.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/IUserBiz.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/IUserInfo.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/SRP_test.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/father.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/son.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/gz.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/单一职责原则" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/设计模式" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson2/里氏代换原则" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson2/AbstractGun.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson2/HandGun.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson2/Rifle.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson2/MachineGun.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson2/Soldier.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson2/Client.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson3/依赖倒置原则" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson1/UserInfo.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/lesson4/开闭原则" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/SingleTon/单例模式" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/SingleTon/HangrySingleTon.java" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/SingleTon/LazySingleTon.java" />
-        <option value="$PROJECT_DIR$/src/LeeCode/刷题" />
-        <option value="$PROJECT_DIR$/src/Reflecton/java反射知识" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/Reflecton/lesson1/模拟spring实现简单的对象池" />
-        <option value="$PROJECT_DIR$/src/Reflecton/lesson1/ComplexBean.java" />
-        <option value="$PROJECT_DIR$/src/Reflecton/lesson1/Bean.java" />
-        <option value="$PROJECT_DIR$/src/Tree/TreeChild.java" />
-        <option value="$PROJECT_DIR$/src/Reflecton/lesson1/ObjectPool.java" />
-        <option value="$PROJECT_DIR$/src/Reflecton/lesson1/User.java" />
-        <option value="$PROJECT_DIR$/src/Reflecton/lesson1/config.json" />
-        <option value="$PROJECT_DIR$/src/Reflecton/lesson1/Client.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/BinaryInsertSort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/shellSort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/Sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm/常用算法剖析学习" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/通知等待的经典范式" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo2/等待超时模式" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionDriver.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson3/demo2/ConectionPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson7/MyThread1.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson7/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson7/Test.java" />
+        <option value="$PROJECT_DIR$/src/Thread/停止等待机制" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson8/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson8/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson8/NotifyThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson8/synNotifyMethodThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson8/Service.java" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson8/Test.java" />
       </list>
     </option>
   </component>
@@ -392,7 +380,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -439,120 +428,75 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
+              <option name="myItemId" value="ThreadDemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Reflecton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Reflecton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sort" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sort" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SelectSort.java" />
+              <option name="myItemId" value="ThreadDemo.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLeaner_Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLeaner_Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLeaner_Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLeaner_Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLeaner_Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLeaner_Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Synchorizned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,8 +505,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19885057" />
-    <property name="SearchEverywhereHistoryKey" value="Hasht&#9;PSI&#9;JAVA://java.util.Hashtable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="BufferedIn&#9;PSI&#9;JAVA://java.io.BufferedInputStream&#10;Hasht&#9;PSI&#9;JAVA://java.util.Hashtable" />
+    <property name="last_opened_file_path" value="E:/博客系统/solo/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -572,15 +516,15 @@
       <recent name="E:\ssm\DeepLeaner_Java\src\myOwnCollection\LinearList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration default="false" name="gz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration default="false" name="LinkedHashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="PatternDesign.lesson1.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="PatternDesign.lesson1.gz" />
+      <option name="MAIN_CLASS_NAME" value="Collection.LinkedHashMapTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -593,14 +537,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ShutDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Reflecton.lesson1.*" />
+          <option name="PATTERN" value="Thread.Interrupt.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Reflecton.lesson1.Client" />
+      <option name="MAIN_CLASS_NAME" value="Thread.Interrupt.demo1.ShutDown" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -613,14 +557,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="NumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm.Sort.*" />
+          <option name="PATTERN" value="Thread.lesson3.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Sort.InsertSort" />
+      <option name="MAIN_CLASS_NAME" value="Thread.lesson3.demo1.NumberTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -633,14 +577,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="shellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm.Sort.*" />
+          <option name="PATTERN" value="Thread.lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Sort.shellSort" />
+      <option name="MAIN_CLASS_NAME" value="Thread.lesson7.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -653,14 +597,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm.Sort.*" />
+          <option name="PATTERN" value="Thread.lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Sort.MergeSort" />
+      <option name="MAIN_CLASS_NAME" value="Thread.lesson8.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1019,19 +963,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.gz" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InsertSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.shellSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MergeSort" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LinkedHashMapTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ShutDown" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NumberTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MergeSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.shellSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InsertSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="4" class="java.lang.String" itemvalue="Application.gz" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NumberTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ShutDown" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LinkedHashMapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1040,6 +984,9 @@
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1068,11 +1015,32 @@
       <workItem from="1479532704116" duration="5337000" />
       <workItem from="1479717987728" duration="1616000" />
       <workItem from="1479727975784" duration="8487000" />
+      <workItem from="1479884951523" duration="596000" />
+      <workItem from="1480384050782" duration="7454000" />
+      <workItem from="1480405746836" duration="10581000" />
+      <workItem from="1480489578519" duration="7956000" />
+      <workItem from="1480498430485" duration="10276000" />
+      <workItem from="1480773701364" duration="154000" />
+      <workItem from="1480939292692" duration="990000" />
+      <workItem from="1481008400848" duration="120000" />
+      <workItem from="1481008600370" duration="5287000" />
+      <workItem from="1481028891177" duration="5390000" />
+      <workItem from="1481073571786" duration="7785000" />
+      <workItem from="1481098055777" duration="23000" />
+      <workItem from="1481159921019" duration="8062000" />
+      <workItem from="1481181059816" duration="20000" />
+      <workItem from="1481680486636" duration="817000" />
+      <workItem from="1482137990455" duration="103000" />
+      <workItem from="1482149808492" duration="4561000" />
+      <workItem from="1482197829831" duration="2913000" />
+      <workItem from="1482284006465" duration="11939000" />
+      <workItem from="1482412414507" duration="71000" />
+      <workItem from="1482650142985" duration="5301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134429000" />
+    <option name="totallyTimeSpent" value="224828000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1084,56 +1052,57 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17636986" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.017331023" sideWeight="0.53025717" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45234492" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48287672" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31161973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30993152" sideWeight="0.47579426" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16792738" sideWeight="0.79012346" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08698941" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21471927" sideWeight="0.6931217" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06202723" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2094082" sideWeight="0.48138958" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16792738" sideWeight="0.20987654" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16780822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27389985" sideWeight="0.3068783" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35875216" sideWeight="0.4697428" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11875945" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Byte Code Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30650684" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21302816" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17636986" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017331023" sideWeight="0.53025717" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45234492" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48415494" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48287672" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30993152" sideWeight="0.47579426" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06967841" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3047473" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27465856" sideWeight="0.6931217" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11875945" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Byte Code Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30650684" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06202723" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21302816" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0528169" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20953101" sideWeight="0.48138958" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27465856" sideWeight="0.3068783" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48287672" sideWeight="0.4697428" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1167,7 +1136,33 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SwordOffer/Solution1.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/ReverseNodeLinst.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Collection/LinkedHashMapTest.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Collection/LinkedHashMapTest.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1176,338 +1171,394 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/PatternDesign.lesson1.UserInfo">
+    <entry file="file://$PROJECT_DIR$/src/PatternDesign/Decorator/ConcreteComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PatternDesign/Decorator/ConcreteDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PatternDesign/Decorator/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/关于装饰器模式适配器模式代理模式区别">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.FilterInputStream">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>PatternDesign.lesson1.UserInfo</OriginalElement>
+          <OriginalElement>java.io.FilterInputStream</OriginalElement>
           <nodes>
-            <node x="48.25" y="81.0">PatternDesign.lesson1.IUserInfo</node>
-            <node x="50.25" y="162.0">PatternDesign.lesson1.UserInfo</node>
-            <node x="0.0" y="0.0">PatternDesign.lesson1.IUserBiz</node>
-            <node x="102.0" y="0.0">PatternDesign.lesson1.IUserBO</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="PatternDesign.lesson1.UserInfo" target="PatternDesign.lesson1.IUserInfo">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="PatternDesign.lesson1.IUserInfo" target="PatternDesign.lesson1.IUserBO">
-              <point x="22.0" y="-15.5" />
-              <point x="114.25" y="56.0" />
-              <point x="143.5" y="56.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="PatternDesign.lesson1.IUserInfo" target="PatternDesign.lesson1.IUserBiz">
-              <point x="-22.0" y="-15.5" />
-              <point x="70.25" y="56.0" />
-              <point x="41.0" y="56.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-128.0" y="190.0" />
-          <SelectedNodes>
-            <node>PatternDesign.lesson1.UserInfo</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/father.java" />
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/son.java" />
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/gz.java" />
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/单一职责原则">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/里氏代换原则.java" />
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/设计模式">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/里氏代换原则">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/HandGun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/Rifle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/MachineGun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/AbstractGun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/PatternDesign.lesson2.AbstractGun">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>PatternDesign.lesson2.AbstractGun</OriginalElement>
-          <nodes>
-            <node x="85.0" y="0.0">PatternDesign.lesson2.AbstractGun</node>
-            <node x="187.0" y="81.0">PatternDesign.lesson2.MachineGun</node>
-            <node x="108.0" y="81.0">PatternDesign.lesson2.Rifle</node>
-            <node x="0.0" y="81.0">PatternDesign.lesson2.HandGun</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="PatternDesign.lesson2.HandGun" target="PatternDesign.lesson2.AbstractGun">
-              <point x="0.0" y="-15.5" />
-              <point x="44.0" y="56.0" />
-              <point x="102.5" y="56.0" />
-              <point x="-35.0" y="15.5" />
-            </edge>
-            <edge source="PatternDesign.lesson2.Rifle" target="PatternDesign.lesson2.AbstractGun">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="PatternDesign.lesson2.MachineGun" target="PatternDesign.lesson2.AbstractGun">
-              <point x="0.0" y="-15.5" />
-              <point x="240.0" y="56.0" />
-              <point x="172.5" y="56.0" />
-              <point x="35.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-168.0" y="0.0" />
-          <SelectedNodes>
-            <node>PatternDesign.lesson2.MachineGun</node>
-            <node>PatternDesign.lesson2.Rifle</node>
-            <node>PatternDesign.lesson2.HandGun</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson2/Soldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="5" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/PatternDesign.lesson2.Soldier">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>PatternDesign.lesson2.Soldier</OriginalElement>
-          <nodes>
-            <node x="-181.5" y="-108.5">PatternDesign.lesson2.Soldier</node>
+            <node x="" y="">java.io.FilterInputStream</node>
+            <node x="" y="">java.io.Closeable</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+            <node x="" y="">java.io.InputStream</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="38.0" y="16.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="141.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.BufferedInputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.BufferedInputStream</OriginalElement>
+          <nodes>
+            <node x="79.0" y="274.0">java.io.FilterInputStream</node>
+            <node x="0.0" y="382.0">java.io.BufferedInputStream</node>
+            <node x="106.5" y="83.0">java.io.Closeable</node>
+            <node x="90.0" y="0.0">java.lang.AutoCloseable</node>
+            <node x="38.0" y="166.0">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.InputStream" target="java.io.Closeable">
+              <point x="0.0" y="-29.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-16.5" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="java.io.BufferedInputStream" target="java.io.FilterInputStream">
+              <point x="0.0" y="-104.0" />
+              <point x="0.0" y="29.0" />
+            </edge>
+            <edge source="java.io.FilterInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-29.0" />
+              <point x="0.0" y="29.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="-310.0" y="150.0" />
           <SelectedNodes>
-            <node>PatternDesign.lesson2.Soldier</node>
+            <node>java.io.BufferedInputStream</node>
           </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Properties</Category>
-            <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson3.java" />
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson3/依赖倒置原则">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/io/FilterInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="1482">
+          <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson4/开闭原则">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/io/BufferedInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="342">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/SingleTon/单例模式">
+    <entry file="file://$PROJECT_DIR$/src/PatternDesign/Decorator/lesson1/分析">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="475">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/SingleTon/HangrySingleTon.java">
+    <entry file="file://$PROJECT_DIR$/src/PatternDesign/Decorator/装饰品模式和io流">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/SingleTon/LazySingleTon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeeCode/刷题">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/IUserBiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/UserBO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/SRP_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternDesign/lesson1/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/jre/lib/rt.jar!/java/beans/PropertyDescriptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/TreeChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="2261">
+          <caret line="119" column="108" selection-start-line="119" selection-start-column="108" selection-end-line="119" selection-end-column="108" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="199" column="6" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="273">
+          <caret line="478" column="0" selection-start-line="478" selection-start-column="0" selection-end-line="478" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.7/fastjson-1.2.7.jar!/com/alibaba/fastjson/JSONObject.class">
+    <entry file="file://$PROJECT_DIR$/src/Collection/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="177" column="18" selection-start-line="177" selection-start-column="18" selection-end-line="177" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="133">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/模拟spring实现简单的对象池">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="61" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
-          <folding />
+        <state relative-caret-position="8284">
+          <caret line="500" column="0" selection-start-line="500" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/beans/PropertyDescriptor.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+        <state relative-caret-position="26467">
+          <caret line="1454" column="0" selection-start-line="1454" selection-start-column="0" selection-end-line="1454" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/lang/ref/Finalizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/lang/ref/ReferenceQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6745">
+          <caret line="382" column="29" selection-start-line="382" selection-start-column="29" selection-end-line="382" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11628">
+          <caret line="641" column="0" selection-start-line="641" selection-start-column="0" selection-end-line="641" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/LinkedHashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/User.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="15466">
+          <caret line="855" column="0" selection-start-line="855" selection-start-column="0" selection-end-line="855" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="341" column="14" selection-start-line="341" selection-start-column="14" selection-end-line="341" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson1/GetNameThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/Interrupt/SleepUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/Interrupt/demo1/ShutDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Synchorizned/分析Synchroized关键字">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="37" column="93" selection-start-line="37" selection-start-column="93" selection-end-line="37" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo1/IncreaseThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo1/DecreaseThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/java反射知识">
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo1/NumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="95" selection-start-line="28" selection-start-column="95" selection-end-line="28" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo1/NumberHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/线程间通信">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/通知等待的经典范式">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="34" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/等待超时模式">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="258" column="13" selection-start-line="258" selection-start-column="13" selection-end-line="258" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="175" column="35" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/ConectionPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/Interrupt/对线程进行中断">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/Interrupt/demo1/说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/多线程">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson7/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson7/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson7/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/java多线程核心技术梳理(附源码)">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1515,121 +1566,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/Bean.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/停止等待机制">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="57">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/ComplexBean.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/ObjectPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="14" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4521#4522#0" expanded="true" />
-            <element signature="e#4559#4560#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/config.json">
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/NotifyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflecton/lesson1/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/BinaryInsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="28" column="13" selection-start-line="20" selection-start-column="29" selection-end-line="28" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/shellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="50" column="56" selection-start-line="36" selection-start-column="8" selection-end-line="50" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        <state relative-caret-position="266">
+          <caret line="14" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="e#2058#2059#0" expanded="true" />
-            <element signature="e#2100#2101#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/常用算法剖析学习">
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/synNotifyMethodThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson8/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
           <folding />
         </state>
       </provider>
