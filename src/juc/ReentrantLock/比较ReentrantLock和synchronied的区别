@@ -16,3 +16,23 @@
         2.公平锁，多个线程等待同一个锁时，必须按照申请锁的时间顺序获得锁，Synchronized锁非公平锁，ReentrantLock默认的构造函数是创建的非公平锁，
         可以通过参数true设为公平锁，但公平锁表现的性能不是很好。
         3.锁绑定多个条件，一个ReentrantLock对象可以同时绑定对个对象。
+
+
+
+
+
+
+
+
+
+
+        ReentrantLock对比synchronized
+        相比synchronized，ReentrantLock可以实现与synchronized相同的语义，但还支持以非阻塞方式获取锁、可以响应中断、可以限时等，更为灵活。
+
+        不过，synchronized的使用更为简单，写的代码更少，也更不容易出错。
+
+        synchronized代表一种声明式编程，程序员更多的是表达一种同步声明，由Java系统负责具体实现，程序员不知道其实现细节，显式锁代表一种命令式编程，程序员实现所有细节。
+
+        声明式编程的好处除了简单，还在于性能，在较新版本的JVM上，ReentrantLock和synchronized的性能是接近的，但Java编译器和虚拟机可以不断优化synchronized的实现，比如，自动分析synchronized的使用，对于没有锁竞争的场景，自动省略对锁获取/释放的调用。
+
+        简单总结，能用synchronized就用synchronized，不满足要求，再考虑ReentrantLock。
