@@ -1,0 +1,12 @@
+Lock接口的主要实现类是ReentrantLock，它的基本用法lock/unlock实现了与synchronized一样的语义，包括：
+可重入，一个线程在持有一个锁的前提下，可以继续获得该锁
+可以解决竞态条件问题
+可以保证内存可见性
+ReentrantLock有两个构造方法：
+public ReentrantLock()
+public ReentrantLock(boolean fair)
+
+参数fair表示是否保证公平，不指定的情况下，默认为false，表示不保证公平。
+所谓公平是指，等待时间最长的线程优先获得锁。保证公平会影响性能，一般也不需要，所以默认不保证，
+synchronized锁也是不保证公平的，待会我们还会再分析实现细节。
+使用显式锁，一定要记得调用unlock，一般而言，应该将lock之后的代码包装到try语句内，在finally语句内释放锁

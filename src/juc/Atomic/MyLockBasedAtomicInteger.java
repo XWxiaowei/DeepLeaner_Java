@@ -11,6 +11,8 @@ import java.util.concurrent.atomic.AtomicInteger;
  * 不过一般而言，这种阻塞方式过于消耗CPU，有更为高效的方式，我们后续章节介绍。
  * MyLock只是用于演示基本概念，实际开发中应该使用Java并发包中的类如ReentrantLock
  *
+ *  当需要同步操作的情况下，只需要将需要同步进行操作的代码置于lock和ulock之间
+ *
  */
 public class MyLockBasedAtomicInteger {
     private AtomicInteger status = new AtomicInteger(0);
