@@ -22,3 +22,10 @@ public static boolean interrupted()
 每个线程都有一个标志位，表示该线程是否被中断了。
 isInterrupted：就是返回对应线程的中断标志位是否为true。
 interrupted：返回当前线程的中断标志位是否为true，但它还有一个重要的副作用，就是清空中断标志位，也就是说，连续两次调用interrupted()，第一次返回的结果为true，第二次一般就是false (除非同时又发生了一次中断)。
+
+
+interrupt()对线程的影响与线程的状态和在进行的IO操作有关，我们先主要考虑线程的状态：
+RUNNABLE：线程在运行或具备运行条件只是在等待操作系统调度
+WAITING/TIMED_WAITING：线程在等待某个条件或超时
+BLOCKED：线程在等待锁，试图进入同步块
+NEW/TERMINATED：线程还未启动或已结束

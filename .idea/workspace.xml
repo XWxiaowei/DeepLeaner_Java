@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c174447-0710-4b3a-81db-dbbbd1376201" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson6/demon7/java中取消和关闭线程" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Thread/lesson6/demon7/InterruptRunnableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/juc/Atomic/AtomicIntegerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/juc/Atomic/JUC原子类" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/juc/Atomic/MyLockBasedAtomicInteger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread/lesson6/demon7/java中取消和关闭线程" afterPath="$PROJECT_DIR$/src/Thread/lesson6/demon7/java中取消和关闭线程" />
     </list>
     <ignored path="DeepLeaner_Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,54 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExecuteThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demo5/ExecuteThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/Thread.lesson6.demo5.ExecuteThread" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/Thread.lesson6.demo5.ExecuteThread">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>Thread.lesson6.demo5.ExecuteThread</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">java.lang.FunctionalInterface</node>
-                <node x="34.0" y="160.0">java.lang.Thread</node>
-                <node x="12.0" y="240.0">Thread.lesson6.demo5.ExecuteThread</node>
-                <node x="27.5" y="80.0">java.lang.Runnable</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="Thread.lesson6.demo5.ExecuteThread" target="java.lang.Thread">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="java.lang.Thread" target="java.lang.Runnable">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-95.5" y="134.0" />
-              <SelectedNodes>
-                <node>Thread.lesson6.demo5.ExecuteThread</node>
-              </SelectedNodes>
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="线程之间相互等待的一种场景" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demo6/线程之间相互等待的一种场景">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,91 +48,94 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="java中取消和关闭线程" pinned="false" current-in-tab="true">
+      <file leaf-file-name="java中取消和关闭线程" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demon7/java中取消和关闭线程">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="122" lean-forward="false" selection-start-line="23" selection-start-column="122" selection-end-line="23" selection-end-column="122" />
+            <state relative-caret-position="502">
+              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AssemblePoint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demo6/AssemblePoint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="18" column="79" lean-forward="false" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
-              <folding>
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AssemblePointDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demo6/AssemblePointDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding>
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Clinet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demo5/Clinet.java">
+      <file leaf-file-name="InterruptRunnableDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demon7/InterruptRunnableDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="18" />
+              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/Thread.lesson6.demo5.MyFuture" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/Thread.lesson6.demo5.MyFuture">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>Thread.lesson6.demo5.MyFuture</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">Thread.lesson6.demo5.MyFuture</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="-123.0" y="14.0" />
-              <SelectedNodes>
-                <node>Thread.lesson6.demo5.MyFuture</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+      <file leaf-file-name="java并发包学习" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/java并发包学习">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFuture.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demo5/MyFuture.java">
+      <file leaf-file-name="Cache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/lesson1/Cache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="基于读写锁来实现Cache结构" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/lesson1/基于读写锁来实现Cache结构">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="77" lean-forward="false" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyExecutor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demo5/MyExecutor.java">
+      <file leaf-file-name="JUC原子类" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/Atomic/JUC原子类">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicIntegerDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/Atomic/AtomicIntegerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="94" column="46" lean-forward="true" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyLockBasedAtomicInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/juc/Atomic/MyLockBasedAtomicInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="71" lean-forward="false" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+              <folding>
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicInteger.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -193,6 +152,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>done</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -204,10 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeeCode/whetherIsCircleOfNodeList/检测链表是否回路" />
-        <option value="$PROJECT_DIR$/src/PatternDesign/Decorator/装饰品模式和io流" />
-        <option value="$PROJECT_DIR$/src/Collection/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/Collection/LinkedHashMapTest.java" />
         <option value="$PROJECT_DIR$/src/Thread/Interrupt/对线程进行中断" />
         <option value="$PROJECT_DIR$/src/Thread/Interrupt/demo1/说明" />
         <option value="$PROJECT_DIR$/src/Thread/Interrupt/SleepUtils.java" />
@@ -255,6 +215,10 @@
         <option value="$PROJECT_DIR$/src/Thread/lesson6/demo6/AssemblePoint.java" />
         <option value="$PROJECT_DIR$/src/Thread/lesson6/demo6/线程之间相互等待的一种场景" />
         <option value="$PROJECT_DIR$/src/Thread/lesson6/demon7/java中取消和关闭线程" />
+        <option value="$PROJECT_DIR$/src/Thread/lesson6/demon7/InterruptRunnableDemo.java" />
+        <option value="$PROJECT_DIR$/src/juc/Atomic/JUC原子类" />
+        <option value="$PROJECT_DIR$/src/juc/Atomic/AtomicIntegerDemo.java" />
+        <option value="$PROJECT_DIR$/src/juc/Atomic/MyLockBasedAtomicInteger.java" />
       </list>
     </option>
   </component>
@@ -329,7 +293,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
+              <option name="myItemId" value="juc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,37 +311,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
+              <option name="myItemId" value="juc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demon7" />
+              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,93 +333,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
+              <option name="myItemId" value="juc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLeaner_Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="基于wait" />
+              <option name="myItemId" value="Atomic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -513,47 +369,7 @@
       <recent name="E:\ssm\DeepLeaner_Java\src\myOwnCollection\LinearList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AssemblePointDemo">
-    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Thread.lesson6.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.lesson6.demo2.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DeepLeaner_Java" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Clinet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Thread.lesson6.demo3.基于wait.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread.lesson6.demo3.基于wait.Clinet" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DeepLeaner_Java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.AtomicIntegerDemo">
     <configuration default="false" name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -602,6 +418,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Thread.lesson6.demo6.AssemblePointDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DeepLeaner_Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="InterruptRunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Thread.lesson6.demon7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Thread.lesson6.demon7.InterruptRunnableDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DeepLeaner_Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AtomicIntegerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="juc.Atomic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="juc.Atomic.AtomicIntegerDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -918,19 +774,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Clinet" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Clinet (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AssemblePointDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Clinet (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AssemblePointDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InterruptRunnableDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AtomicIntegerDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AssemblePointDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Clinet (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Clinet" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AtomicIntegerDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InterruptRunnableDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AssemblePointDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Clinet (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -999,7 +855,7 @@
       <workItem from="1487838144884" duration="1272000" />
       <workItem from="1487841260755" duration="170000" />
       <workItem from="1487857042058" duration="4000" />
-      <workItem from="1487901235657" duration="8129000" />
+      <workItem from="1487901235657" duration="10061000" />
     </task>
     <task id="LOCAL-00001" summary="增加了对juc下面的并发包的学习">
       <created>1487903134775</created>
@@ -1022,11 +878,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487922457350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加了对juc下面的并发包的学习">
+      <created>1487922696862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487922696862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237385000" />
+    <option name="totallyTimeSpent" value="239317000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1057,7 +920,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40138593" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06202723" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21302816" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2094082" sideWeight="0.48138958" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20895523" sideWeight="0.48138958" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27389985" sideWeight="0.3068783" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36871508" sideWeight="0.4697428" order="3" side_tool="false" content_ui="tabs" />
@@ -1167,29 +1030,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/等待超时模式">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/ConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/concurrent/CountDownLatch.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" />
     <entry file="file://$PROJECT_DIR$/src/Thread/lesson3/demo2/ConectionPoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
@@ -1325,33 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/juc/java并发包学习">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/juc/lesson1/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#288#304#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/juc/lesson1/基于读写锁来实现Cache结构">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1594,9 +1407,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demon7/java中取消和关闭线程">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="122" lean-forward="false" selection-start-line="23" selection-start-column="122" selection-end-line="23" selection-end-column="122" />
+        <state relative-caret-position="502">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/java并发包学习">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/lesson1/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/lesson1/基于读写锁来实现Cache结构">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/Atomic/JUC原子类">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/lesson6/demon7/InterruptRunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/Atomic/AtomicIntegerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="94" column="46" lean-forward="true" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/Atomic/MyLockBasedAtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="71" lean-forward="false" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+          <folding>
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
