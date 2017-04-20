@@ -52,9 +52,6 @@ public class FindKthToTaiSoluction {
          *                       的末尾的时候 ，接着慢速度指针 也刚好落后于慢速度指针 k＋１步也就是 倒数第k个元素
          *
           */
-
-
-
     }
 
 }
