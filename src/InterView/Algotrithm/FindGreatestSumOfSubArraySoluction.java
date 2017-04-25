@@ -1,5 +1,7 @@
 package InterView.Algotrithm;
 
+import java.util.Arrays;
+
 /**
  * Created by Administrator on 2017/4/20.
  */
@@ -12,43 +14,54 @@ public class FindGreatestSumOfSubArraySoluction {
      * 你会不会被他忽悠住？(子向量的长度至少是1)
      * @param array
      * @return
+     *  动态规划
      */
     public int FindGreatestSumOfSubArray(int[] array) {
-        int max=array[0];
-        int s=array.length;
-        if(s==1){
-            return array[0];
+        if(array==null||array.length<=0){
+            return -1;
         }
-
-        int sum=array[0];
-        for (int i = 1; i <array.length ; i++) {
-            //max+=array[i];
-
-            sum+=array[i];
-
-            if(sum<array[i]){
-                if(sum<max){
-                    sum=max;
-                }
-                else {
-                    max=array[i];//之前的累积的和都被尽数抛弃
-                    sum=max;
-                }
-                continue;
+        int s=array.length;
+        int f[]=new int[s];
+        f[0]=array[0];
+        for (int i = 1; i <s ; i++) {
+            if(f[i-1]<=0){
+                f[i]=array[i];
+            }else {
+                f[i]=f[i-1]+array[i];
             }
-            if(array[i]>0)
-            {
-                if(sum>max){
-                    max=sum;
-                    continue;
-                }
+        }
+        Arrays.sort(f);
+        System.out.println("");
+        return f[s-1];
+
+    }
+
+    /**
+     * 递推
+     * @param array
+     * @return
+     */
+    public int FindGreatestSumOfSubArray2(int[] array){
+        if(array==null){
+            return -1;
+        }
+        int max=Integer.MIN_VALUE;
+        int cursum=0;
+        for (int i = 0; i <array.length ; i++) {
+            if(cursum<=0){
+                cursum=array[i];
             }
-            //否则max不做任何的更新操作
+            else {
+                cursum+=array[i];
+            }
+            if(cursum>max){
+                max=cursum;
+            }
         }
         return max;
     }
     public static void main(String [] args){
-        int [] arr={1,-2,3,10,-4,7,2,-5};
+        int [] arr={-2,-8,-1,-5,-9};
         new FindGreatestSumOfSubArraySoluction().FindGreatestSumOfSubArray(arr);
         System.out.println("vvvvv");
     }
