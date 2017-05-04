@@ -21,16 +21,13 @@ public class Solution {
         list=findPath(root,target,stack,new ArrayList<Integer>(),new ArrayList<ArrayList<Integer>>());
         return list;
     }
-
     //static ArrayList<ArrayList<Integer>> list = new ArrayList<ArrayList<Integer>>();
-
     private ArrayList<ArrayList<Integer>> findPath(TreeNode root,int target,Stack<Integer> path,ArrayList<Integer> list1,ArrayList<ArrayList<Integer>> list ){
 
         if(root == null){
             return list;
         }
         if(root.left==null && root.right==null){
-
             if(root.val==target){
                 ArrayList<Integer> temp=new ArrayList<>();
                 list1=temp;
@@ -38,11 +35,9 @@ public class Solution {
                 //path.add(root.val);
                 for(Integer i:path){
                     list1.add(i);
-
                 }
                 list1.add(root.val);
                 list.add(list1);//
-
             }
         }
         else
@@ -52,7 +47,6 @@ public class Solution {
             findPath(root.left,target-root.val,path,list1,list);
             path.pop();//小步伐走  走完 一条合理的路径之后，立即回头稍微观察看看。--回退一步就好了
         }
-
         return list;///这块有问题，以返回直接变空了
     }
     public static void main(String args[])
@@ -77,7 +71,6 @@ public class Solution {
         node4.val=7;
         //node5.val=13;
       //  node6.val=13;
-
         Solution testFindPath=new Solution();
         ArrayList<ArrayList<Integer>> ss=	testFindPath.FindPath(root1, 35);
         System.out.println("vv");

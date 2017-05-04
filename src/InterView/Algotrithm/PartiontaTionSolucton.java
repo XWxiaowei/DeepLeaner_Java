@@ -71,5 +71,10 @@ public class PartiontaTionSolucton {
      int s=new PartiontaTionSolucton().fast_Paration(exa,0,5);
         System.out.println("vvvvv");
   }
-
+/**
+ *
+ *
+ *
+ *
+ */
 }
