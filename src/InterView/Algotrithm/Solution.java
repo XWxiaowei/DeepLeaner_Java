@@ -77,7 +77,15 @@ public class Solution {
     }
 }
 class TreeNode {
-    int val = 0;
+    int val;
+
+    public TreeNode() {
+    }
+
+    public TreeNode(int val) {
+        this.val = val;
+    }
+
     TreeNode left = null;
     TreeNode right = null;
 }

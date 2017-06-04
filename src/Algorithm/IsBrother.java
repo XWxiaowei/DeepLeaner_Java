@@ -37,7 +37,6 @@ public class IsBrother
             }
             return true;
         }
-
     }
     public static void main(String [] args){
         System.out.println(isBrother("rqhelo","olerqh"));
