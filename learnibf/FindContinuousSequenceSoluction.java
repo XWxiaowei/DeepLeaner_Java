@@ -28,9 +28,11 @@ public class FindContinuousSequenceSoluction {
 		ArrayList<ArrayList<Integer>> result=new ArrayList<ArrayList<Integer>>();
 		int small=1, big=2;
 		int currentSum=small+big;
-		while(small<(sum+1)/2){
+		while(small<(sum+1)/2)
+		{
 			//currentSum=(small+big)*(big-small+1)/2;
-			if(currentSum==sum){
+			if(currentSum==sum)
+			{
 				ArrayList<Integer> tmp=new ArrayList();
 				for(int i=small;i<=big;i++)
 				{   //将满足条件的数据放到List里面
@@ -40,16 +42,17 @@ public class FindContinuousSequenceSoluction {
 				result.add(tmp);
 				//break;
 			}
-			while(currentSum>sum&&small<(sum+1)/2){
+			while(currentSum>sum&&small<(sum+1)/2)
+			{
 				//则增大small 使得序列里面包含少的数字
 				currentSum-=small;
 				small++;
-				if(currentSum==sum){
+				if(currentSum==sum)
+				{
 					ArrayList<Integer> tmp=new ArrayList();
 					for(int i=small;i<=big;i++)
 					{   //将满足条件的数据放到List里面
 					    tmp.add(i);
-					        
 					}
 					result.add(tmp);	
 				}
